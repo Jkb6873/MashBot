@@ -1,0 +1,22 @@
+{
+  "name": "nodebot",
+  "version": "1.0.0",
+  "description": "Twitter api bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jkb6873/MashBot.git"
+  },
+  "author": "Jkb6873",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jkb6873/MashBot/issues"
+  },
+  "homepage": "https://github.com/Jkb6873/MashBot#readme",
+  "dependencies": {
+    "twit": "^2.2.10"
+  }
+}
